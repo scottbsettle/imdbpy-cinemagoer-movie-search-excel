@@ -2,7 +2,7 @@ from excelReader import ExcelReader
 from imdbInfo import IMDBInfo
 
 #set excel file read from
-excelReadPath = 'C:/Users/scott/Documents/Development/Data Files/'
+excelReadPath = ''
 excelReadFileName = 'imdbDataNewMoviesFiltered - Copy.xlsx'
 excelReadColumn = 'CleanTitle'
 
