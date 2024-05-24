@@ -9,7 +9,7 @@ Openpyxl – pip install openpyxl
 Cinemagoer – pip install cinemagoer 
 
 2.)	Update main.py variables for Excel input/output
-# Set Excel file read from
+**# Set Excel file read from**
 excelReadPath – path for Excel file to read in movie list inputs
 excelReadFileName – filename of xlsx file to read from
 excelReadColumn – column name in the Excel file used to search (this was tested for movie titles but should work if you have the IDs also) 
